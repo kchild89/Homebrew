@@ -1,0 +1,124 @@
+# Homebrew Package List with Descriptions
+
+## Formulae
+
+- **abseil** - A collection of C++ libraries designed for performance and reliability.
+- **amass** - Open-source tool for mapping attack surfaces and discovering subdomains.
+- **asciinema** - Record and share terminal sessions from your shell.
+- **at-spi2-core** - Assistive technology service for accessibility on Linux.
+- **bat** - A better `cat` command with syntax highlighting and Git integration.
+- **bettercap** - A powerful network attack and monitoring tool.
+- **broot** - A better `tree` command for navigating directories.
+- **brotli** - A compression algorithm optimized for the web.
+- **c-ares** - A C library for asynchronous DNS requests.
+- **ca-certificates** - Provides a set of SSL/TLS root certificates.
+- **cairo** - A 2D graphics library for rendering vector graphics.
+- **certifi** - Python package for trusted CA certificates.
+- **cmatrix** - Displays a Matrix-style digital rain effect in the terminal.
+- **cowsay** - Generates ASCII speech bubbles from a talking cow.
+- **dbus** - A message bus system for inter-process communication.
+- **dnsmasq** - A lightweight DNS, DHCP, and TFTP server.
+- **dust** - A more intuitive `du` command for disk usage visualization.
+- **ettercap** - Network security tool for MITM attacks and protocol analysis.
+- **fd** - A fast and user-friendly alternative to `find`.
+- **feroxbuster** - A fast directory and file brute-forcing tool.
+- **figlet** - Generates ASCII text banners in the terminal.
+- **fontconfig** - Library for font configuration and customization.
+- **freetype** - A font rendering engine.
+- **fribidi** - A library that provides Unicode BiDi text handling.
+- **fzf** - A command-line fuzzy finder for searching files and history.
+- **gdk-pixbuf** - A library for image loading and manipulation.
+- **gettext** - Internationalization and localization tools.
+- **gh** - GitHub CLI tool for managing repositories and PRs.
+- **git** - The most widely used version control system.
+- **gitleaks** - A tool to detect secrets and credentials in Git repositories.
+- **glib** - Core library for GNOME and GTK applications.
+- **gmp** - A library for arbitrary precision arithmetic.
+- **gnutls** - A cryptographic library implementing SSL/TLS protocols.
+- **gobuster** - A tool for brute-force enumeration of web directories and subdomains.
+- **graphite2** - A font rendering engine for complex text layouts.
+- **gsettings-desktop-schemas** - GNOME settings schema definitions.
+- **gtk+3** - A multi-platform toolkit for creating graphical user interfaces.
+- **harfbuzz** - A text shaping engine for font rendering.
+- **hashcat** - A password cracking tool supporting GPU acceleration.
+- **hicolor-icon-theme** - A set of standard icons for Linux desktops.
+- **htop** - An interactive process manager for monitoring system resources.
+- **httpie** - A user-friendly HTTP client with JSON support.
+- **hydra** - A fast network login cracker for brute-force attacks.
+- **icu4c@76** - International Components for Unicode (ICU) library.
+- **iperf3** - A tool for measuring network bandwidth performance.
+- **jansson** - A C library for encoding, decoding, and manipulating JSON data.
+- **john** - John the Ripper password cracker.
+- **jpeg-turbo** - A high-speed JPEG image compression library.
+- **jq** - A lightweight command-line JSON processor.
+- **json-c** - A JSON library for C.
+- **judy** - A dynamic array library for high-performance applications.
+- **libdnet** - A simplified networking API for packet creation and analysis.
+- **libepoxy** - A library for handling OpenGL function pointers.
+- **libevent** - An event notification library for scalable network applications.
+- **libgcrypt** - Cryptographic library based on GnuPG.
+- **libgit2** - A lightweight C library for interacting with Git repositories.
+- **libgpg-error** - A library for GnuPG error handling.
+- **libidn2** - Library for internationalized domain names (IDN).
+- **liblinear** - A library for large-scale linear classification.
+- **libmagic** - File type recognition library.
+- **libmaxminddb** - A C library for the MaxMind GeoIP2 format.
+- **libnet** - A high-level library for constructing network packets.
+- **libnghttp2** - Implementation of HTTP/2.
+- **libnghttp3** - Implementation of HTTP/3.
+- **libpng** - A library for handling PNG images.
+- **libsmi** - A library for handling SNMP MIBs.
+- **libssh** - A library for SSH client and server communication.
+- **libssh2** - A lightweight SSH implementation.
+- **libtasn1** - A library for ASN.1 parsing.
+- **libtiff** - A library for reading and writing TIFF image files.
+- **libunistring** - A Unicode string processing library.
+- **libusb** - A library for USB device handling.
+- **libuv** - A multi-platform event-driven networking library.
+- **libx11** - The X11 window system core protocol library.
+- **libxau** - X11 authorization library.
+- **libxcb** - X protocol C-language Binding.
+- **libxdmcp** - X Display Manager Control Protocol (XDMCP) library.
+- **libxext** - X11 extensions library.
+- **libxfixes** - Fixes extension to X11.
+- **libxi** - X11 Input extension library.
+- **libxrender** - X Rendering Extension library.
+- **libxtst** - X11 Testing extension.
+- **libyaml** - YAML parser and emitter library.
+- **libzip** - C library for handling zip archives.
+- **lolcat** - Rainbow-colored text output.
+- **lua** - Lightweight scripting language.
+- **lz4** - Fast compression algorithm.
+- **lzo** - A lightweight compression library.
+- **mariadb-connector-c** - A client library for MariaDB.
+- **masscan** - A high-performance network scanner.
+- **minizip** - A zip compression library.
+- **mpdecimal** - A decimal floating-point library.
+- **mtr** - A network diagnostic tool combining ping and traceroute.
+- **nali** - IP geolocation lookup tool.
+- **ncurses** - A terminal UI library.
+- **nettle** - A cryptographic library.
+- **ngrep** - A network packet analyzer similar to `grep`.
+- **nikto** - A web server vulnerability scanner.
+- **nmap** - A network security scanner.
+- **node** - JavaScript runtime environment.
+- **openssl@3** - The OpenSSL cryptographic library.
+- **pango** - A text rendering engine.
+- **pcre** - Perl Compatible Regular Expressions library.
+- **python@3.13** - Python programming language.
+- **ripgrep** - A fast search tool for finding text in files.
+- **sqlite** - A lightweight SQL database.
+- **thefuck** - Auto-corrects mistyped shell commands.
+- **tldr** - Simplified command help pages.
+- **tmux** - A terminal multiplexer.
+- **tree** - Displays directory structure as a tree.
+- **wget** - A command-line file downloader.
+- **wireshark** - A network traffic analyzer.
+- **zoxide** - A smarter `cd` command.
+
+## Casks
+
+- **metasploit** - A penetration testing framework.
+- **mitmproxy** - A man-in-the-middle proxy for HTTP/HTTPS.
+- **postman** - API development and testing tool.
+- **wireshark** - A graphical network packet analyzer.
