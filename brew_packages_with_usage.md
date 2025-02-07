@@ -1,4 +1,4 @@
-# Homebrew Package List with Descriptions & Usage
+# 🍺 Homebrew Package List with Descriptions & Usage
 
 ---
 
@@ -39,6 +39,19 @@
 
 ---
 
+## 🐳 Docker & Container Management
+
+- **docker** - The Docker CLI for managing containers.  
+  **Usage:** `docker run hello-world`
+- **docker-completion** - Shell completion scripts for Docker.  
+  **Usage:** Used internally by your shell.
+- **lazydocker** - A simple terminal UI for Docker.  
+  **Usage:** `lazydocker`
+- **lazygit** - A simple terminal UI for Git.  
+  **Usage:** `lazygit`
+
+---
+
 ## 🔒 Security & Pentesting Tools
 
 - **amass** - Open-source tool for mapping attack surfaces and discovering subdomains.  
@@ -75,6 +88,8 @@
   **Usage:** `theharvester -d example.com -b google`
 - **wireshark** - A network traffic analyzer.  
   **Usage:** `wireshark`
+- **zenmap** - The GUI for Nmap network scanning.  
+  **Usage:** `zenmap`
 
 ---
 
@@ -152,14 +167,3 @@
   **Usage:** `fuck`
 
 ---
-
-## 📦 Casks (GUI Applications)
-
-- **metasploit** - A penetration testing framework.  
-  **Usage:** `msfconsole`
-- **mitmproxy** - A man-in-the-middle proxy for HTTP/HTTPS.  
-  **Usage:** `mitmproxy`
-- **postman** - A powerful API development and testing tool.  
-  **Usage:** Open **Postman** from the Applications folder.
-- **wireshark** - A graphical network packet analyzer.  
-  **Usage:** `wireshark`

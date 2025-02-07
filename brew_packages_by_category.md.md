@@ -1,4 +1,4 @@
-# Homebrew Package List with Descriptions
+# 🍺 Homebrew Package List with Descriptions
 
 ---
 
@@ -20,6 +20,15 @@
 - **tree** - Displays directory structures in a tree format.
 - **wget** - A command-line file downloader.
 - **zoxide** - A smarter `cd` command for navigating directories.
+
+---
+
+## 🐳 Docker & Container Management
+
+- **docker** - The Docker CLI for managing containers.
+- **docker-completion** - Shell completion scripts for Docker.
+- **lazydocker** - A simple terminal UI for Docker.
+- **lazygit** - A simple terminal UI for Git.
 
 ---
 
@@ -47,6 +56,7 @@
 - **wireshark** - A network traffic analyzer.
 - **yara** - A pattern-matching tool for identifying malware.
 - **zmap** - A high-speed network scanner.
+- **zenmap** - The GUI for Nmap network scanning.
 
 ---
 
@@ -127,7 +137,11 @@
 
 ## 📦 Casks (GUI Applications)
 
+- **docker** - Docker Desktop for managing containerized applications.
+- **firefox** - A privacy-focused web browser.
+- **google-chrome** - A fast, user-friendly web browser.
 - **metasploit** - A penetration testing framework with an extensive exploit database.
 - **mitmproxy** - A man-in-the-middle proxy for HTTP/HTTPS.
 - **postman** - A powerful API development and testing tool.
 - **wireshark** - A graphical network packet analyzer.
+- **zenmap** - The graphical interface for Nmap.

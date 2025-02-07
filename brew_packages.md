@@ -1,4 +1,4 @@
-# Homebrew Package List with Descriptions
+# 🍺 Homebrew Package List with Descriptions
 
 ## Formulae
 
@@ -18,6 +18,8 @@
 - **cowsay** - Generates ASCII speech bubbles from a talking cow.
 - **dbus** - A message bus system for inter-process communication.
 - **dnsmasq** - A lightweight DNS, DHCP, and TFTP server.
+- **docker** - The Docker CLI for managing containers.
+- **docker-completion** - Shell completion scripts for Docker.
 - **dust** - A more intuitive `du` command for disk usage visualization.
 - **ettercap** - Network security tool for MITM attacks and protocol analysis.
 - **fd** - A fast and user-friendly alternative to `find`.
@@ -53,6 +55,8 @@
 - **jq** - A lightweight command-line JSON processor.
 - **json-c** - A JSON library for C.
 - **judy** - A dynamic array library for high-performance applications.
+- **lazydocker** - A simple terminal UI for Docker.
+- **lazygit** - A simple terminal UI for Git.
 - **libdnet** - A simplified networking API for packet creation and analysis.
 - **libepoxy** - A library for handling OpenGL function pointers.
 - **libevent** - An event notification library for scalable network applications.
@@ -118,7 +122,9 @@
 
 ## Casks
 
+- **docker** - Docker Desktop for managing containerized applications.
 - **metasploit** - A penetration testing framework.
 - **mitmproxy** - A man-in-the-middle proxy for HTTP/HTTPS.
 - **postman** - API development and testing tool.
 - **wireshark** - A graphical network packet analyzer.
+- **zenmap** - The graphical interface for Nmap.
